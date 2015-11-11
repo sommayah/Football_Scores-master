@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2-1"
+        android:text=""
         android:id="@+id/scoreTextView"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"/>
@@ -21,6 +21,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@id/scoreTextView"
         android:layout_toLeftOf="@id/scoreTextView"
         android:layout_centerVertical="true"
         android:orientation="vertical">
@@ -49,8 +51,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_centerVertical="true"
         android:layout_toRightOf="@id/scoreTextView"
+        android:layout_toEndOf="@id/scoreTextView"
         android:orientation="vertical">
 
         <ImageView
