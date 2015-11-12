@@ -33,6 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:scaleType="centerInside"
+            android:contentDescription="@string/home_icon"
             tools:src="@drawable/arsenal" />
 
         <TextView android:id="@+id/appwidget_text1"
@@ -62,6 +63,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
+            android:contentDescription="@string/away_icon"
             tools:src="@drawable/arsenal" />
 
 
