@@ -10,10 +10,17 @@
     <string name="yesterday">Yesterday</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="champions_league">UEFA Champions League</string>
-    <string name="bundesliga">Bundesliga</string>
+    <string name="bundesliga">Bundesliga 1</string>
+    <string name="bundesliga2">Bundesliga 2</string>
     <string name="premierleague">Premier League</string>
+    <string name="segunda_division">Segunda Division</string>
+    <string name="primera_liga">Primera Liga</string>
+    <string name="bundesliga3">Bundesliga 3</string>
+    <string name="eredivisie">Eredivisie</string>
     <string name="primeradivison">Primera Division</string>
     <string name="seriaa">Serie A</string>
+    <string name="ligue1">Ligue 1</string>
+    <string name="ligue2">Ligue 2</string>
     <string name="matchday_text">Match day</string>
     <string name="group_stage_text">Group stages</string>
     <string name="first_knockout_round">First knockout round</string>
@@ -34,8 +41,8 @@
         During the off season, fake data will be added to the app.
     </string>
     <string name="widget_text">This is a widget probably.</string>
-    <string name="api_key">cdfe53ea257741b0a8014d4cebe2b3f6</string>
-    <string name="dummy_data">{\"timeFrameStart\":\"2015-06-18\",\"timeFrameEnd\":\"2015-06-19\",\"count\":1,\"fixtures\":[{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}}]}</string>
+    <string name="api_key" translatable="false">cdfe53ea257741b0a8014d4cebe2b3f6</string>
+    <string name="dummy_data" translatable="false">{\"timeFrameStart\":\"2015-06-18\",\"timeFrameEnd\":\"2015-06-19\",\"count\":1,\"fixtures\":[{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}},{\"_links\":{\"self\":{\"href\":\"http://api.football-data.org/alpha/fixtures/140514\"},\"soccerseason\":{\"href\":\"http://api.football-data.org/alpha/soccerseasons/357\"},\"homeTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/275\"},\"awayTeam\":{\"href\":\"http://api.football-data.org/alpha/teams/263\"}},\"date\":\"2015-06-19T22:00:00Z\",\"status\":\"FINISHED\",\"matchday\":42,\"homeTeamName\":\"TESTING1\",\"awayTeamName\":\"TESTING2\",\"result\":{\"goalsHomeTeam\":2,\"goalsAwayTeam\":4}}]}</string>
     <string name="appwidget_text">No match today</string>
     <string name="add_widget">Add widget</string>
     <string name="title_widget_today">Football Scores Today</string>
@@ -48,23 +55,23 @@
 
     <!-- added strings by Sommayah Soliman -->
     <string name="will_retrieve">will retrieve</string>
-    <string name="pager_current">Pager_Current</string>
-    <string name="selected_match">Selected_match</string>
-    <string name="my_main">my_main</string>
-    <string name="will_save">will_Save</string>
+    <string name="pager_current" translatable="false">Pager_Current</string>
+    <string name="selected_match" translatable="false">Selected_match</string>
+    <string name="my_main" translatable="false">my_main</string>
+    <string name="will_save" translatable="false">will_Save</string>
     <string name="fragment">fragment: </string>
     <string name="selected_id">selected id: </string>
     <string name="reaced_oncreate">Reached MainActivity onCreate</string>
     <string name="main_activity">MainActivity</string>
     <string name="save_tag">Save Test</string>
-    <string name="action_data_updated">barqsoft.footballscores.app.ACTION_DATA_UPDATED</string>
-    <string name="n2">n2</string>
-    <string name="p2">p2</string>
-    <string name="myFetchService">myFetchService</string>
-    <string name="base_url">http://api.football-data.org/alpha/fixtures</string>
-    <string name="time_frame">timeFrame</string>
-    <string name="get">GET</string>
-    <string name="x_token">X-Auth-Token</string>
+    <string name="action_data_updated" translatable="false">barqsoft.footballscores.app.ACTION_DATA_UPDATED</string>
+    <string name="n2" translatable="false">n2</string>
+    <string name="p2" translatable="false">p2</string>
+    <string name="myFetchService" translatable="false">myFetchService</string>
+    <string name="base_url" translatable="false">http://api.football-data.org/alpha/fixtures</string>
+    <string name="time_frame" translatable="false">timeFrame</string>
+    <string name="get" translatable="false">GET</string>
+    <string name="x_token" translatable="false">X-Auth-Token</string>
     <string name="exception">Exception here</string>
     <string name="error_closing_stream">Error Closing Stream</string>
     <string name="could_not_connect_to_server">Could not connect to server.</string>
@@ -80,39 +87,39 @@
     <string name="Bundesliga3">403</string>
     <string name="EREDIVISIE">404</string>
 
-    <string name="season_link">http://api.football-data.org/alpha/soccerseasons/</string>
-    <string name="match_link">http://api.football-data.org/alpha/fixtures/</string>
-    <string name="fixtures">fixtures</string>
-    <string name="links">_links</string>
-    <string name="soccer_season">soccerseason</string>
-    <string name="self">"self</string>
-    <string name="match_date">date</string>
-    <string name="home_team">homeTeamName</string>
-    <string name="away_team">awayTeamName</string>
-    <string name="result">result</string>
-    <string name="home_goals">goalsHomeTeam</string>
-    <string name="away_goals">goalsAwayTeam</string>
-    <string name="match_day">matchday</string>
-    <string name="href">href</string>
+    <string name="season_link" translatable="false">http://api.football-data.org/alpha/soccerseasons/</string>
+    <string name="match_link" translatable="false">http://api.football-data.org/alpha/fixtures/</string>
+    <string name="fixtures" translatable="false">fixtures</string>
+    <string name="links" translatable="false">_links</string>
+    <string name="soccer_season" translatable="false">soccerseason</string>
+    <string name="self" translatable="false">self</string>
+    <string name="match_date" translatable="false">date</string>
+    <string name="home_team" translatable="false">homeTeamName</string>
+    <string name="away_team" translatable="false">awayTeamName</string>
+    <string name="result" translatable="false">result</string>
+    <string name="home_goals" translatable="false">goalsHomeTeam</string>
+    <string name="away_goals" translatable="false">goalsAwayTeam</string>
+    <string name="match_day" translatable="false">matchday</string>
+    <string name="href" translatable="false">href</string>
     <string name="error_here">error here!</string>
 
-    <string name="scores_table">scores_table</string>
-    <string name="league_col">league</string>
-    <string name="date_col">date</string>
-    <string name="time_col">time</string>
-    <string name="home_col">home</string>
-    <string name="away_col">away</string>
-    <string name="home_goals_col">home_goals</string>
-    <string name="away_goals_col">away_goals</string>
-    <string name="match_id_col">match_id</string>
-    <string name="match_day_col">match_day</string>
+    <string name="scores_table" translatable="false">scores_table</string>
+    <string name="league_col" translatable="false">league</string>
+    <string name="date_col" translatable="false">date</string>
+    <string name="time_col" translatable="false">time</string>
+    <string name="home_col" translatable="false">home</string>
+    <string name="away_col" translatable="false">away</string>
+    <string name="home_goals_col" translatable="false">home_goals</string>
+    <string name="away_goals_col" translatable="false">away_goals</string>
+    <string name="match_id_col" translatable="false">match_id</string>
+    <string name="match_day_col" translatable="false">match_day</string>
 
     <string name="simple_date_format" translatable="false">yyyy-MM-dd</string>
     <string name="simple_date_format_min" translatable="false">yyyy-MM-ddHH:mm:ss</string>
     <string name="simple_date_format_hrs" translatable="false">yyyy-MM-dd:HH:mm</string>
     <string name="eeee" traslatable="false">EEEE</string>
     <string name="football_hashtag">#Football_Scores</string>
-    <string name="text_plain">text/plain</string>
+    <string name="text_plain" translatable="false">text/plain</string>
     <string name="unknown_uri">Unknown uri :</string>
 
     <string name="arsenal">Arsenal London FC</string>
